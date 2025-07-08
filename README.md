@@ -29,7 +29,7 @@ I may not be an expert (yet!) but I’m learning every day — and truly enjoyin
 ---
  
 ### 📂 My C++ Practice Projects:
-- [cpp-practic](https://github.com/fatemehamdavi/cpp-practic): A growing collection of my beginner-level C++ codes:
+- [cpp-practic](https://github.com/fatemehamdavi2001/cpp-practic): A growing collection of my beginner-level C++ codes:
   - ✅ Calculate average of three numbers  
   - ✅ Convert age to days, hours, minutes, seconds  
   - ✅ Find even numbers between two values  
