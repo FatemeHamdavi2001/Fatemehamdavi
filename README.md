@@ -1,6 +1,6 @@
 # Hi, I'm Fatemeh (Nazanin) 👋
 
-I'm a Computer Science student at Malayer University, currently learning Python and building my programming foundations.
+I'm a Computer Science student, currently learning Python and building my programming foundations.
 
 My long-term goal is to work in backend development and cybersecurity. For now, I'm focusing on learning the basics properly, writing code, and building small projects as I go.
 
